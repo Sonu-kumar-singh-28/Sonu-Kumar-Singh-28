@@ -4,7 +4,6 @@
 - 👯 I’m Looking To Chase My dream Company ...
 
 - Link To [Linkedin] = (www.linkedin.com/in/Sonu-kumar-Singh28)
-Link To [Instagram] = (@kshatriya_sonu.rajput_)
 - ⚡ Fun fact: I'm a Lazy Dancer  ...
 <!--
 **Sonu-kumar-singh-28/Sonu-Kumar-Singh-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
