@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:800/1*4FmHn9A6U-gP84B7suHLvg.jpeg)]
+[![MasterHead](https://wallpapers.com/images/hd/android-developer-h7st8z67whpp8axj.jpg)]
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
 <h3 align="center">I’m Student of B.Tech (CSE) Working To Improve Our Personality</h3>
