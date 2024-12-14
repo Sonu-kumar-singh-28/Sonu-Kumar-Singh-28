@@ -1,4 +1,4 @@
-[![MasterHead](https://pixelz.cc/wp-content/uploads/2016/11/xda-android-developers-forum-uhd-4k-wallpaper.jpg)]
+[![MasterHead](https://5.imimg.com/data5/BR/DR/MY-44765296/mm-500x500.png)]
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
 <h3 align="center">I’m Student of B.Tech (CSE) Working To Improve Our Personality</h3>
