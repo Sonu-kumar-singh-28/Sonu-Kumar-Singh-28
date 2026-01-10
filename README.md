@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sengar_s_rajput" target="blank"><img src="https://img.shields.io/twitter/follow/@sengar_s_rajput?logo=twitter&style=for-the-badge" alt="@sengar_s_rajput" /></a> </p>
 
-- 🌱 I’m currently learning **C++ With DSA & Oops**
+- 🌱 Software Engineer – Android | Native Android Developer |**
 
 - 💬 Ask me about **Android , frontend**
 
