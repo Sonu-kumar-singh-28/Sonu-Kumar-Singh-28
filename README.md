@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20views&color=0e75b6&style=flat" alt="sonu-kumar-singh-28" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sengar_s_rajput" target="blank"><img src="https://img.shields.io/twitter/follow/@sengar_s_rajput?logo=twitter&style=for-the-badge" alt="@sengar_s_rajput" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@sengar_s_rajput" target="blank"><img src="https://img.shields.io/twitter/follow/sengar_s_rajput?logo=twitter&style=for-the-badge" alt="@sengar_s_rajput" /></a> </p>
 
 - 🌱 Software Engineer – Android | Native Android Developer
 
