@@ -3,7 +3,7 @@
 <h1 align="center">Hiii 👋, I'm Sonu Kumar Singh</h1>
 <h3 align="center">I’m Student of B.Tech (CSE) Working To Improve Our Personality</h3>
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20views&color=0e75b6&style=flat" alt="sonu-kumar-singh-28"/>
