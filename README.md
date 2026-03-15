@@ -4,7 +4,7 @@
 <h3 align="center">I’m Student of B.Tech (CSE) Working To Improve Our Personality</h3>
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
      alt="Avento animation"
-     style="width:250px; float:right;">
+     style="width:400px; float:left;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20views&color=0e75b6&style=flat" alt="sonu-kumar-singh-28" /> </p>
 
