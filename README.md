@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-<a href="https://twitter.com/@sengar_s_rajput" target="blank">
+<a href="https://x.com/@sonu_singh_0328" target="blank">
 <img src="https://img.shields.io/twitter/follow/sengar_s_rajput?logo=twitter&style=for-the-badge"/>
 </a>
 </p>
