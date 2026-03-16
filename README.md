@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/>
 </a>
 
-<a href="https://twitter.com/@sengar_s_rajput" target="blank">
+<a href="https://x.com/@sonu_singh_0328" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
 </a>
 
