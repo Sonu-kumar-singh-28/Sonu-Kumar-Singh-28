@@ -11,7 +11,7 @@
 
 <p align="left">
 <a href="https://x.com/@sonu_singh_0328" target="blank">
-<img src="https://img.shields.io/twitter/follow/sonu_singh_0328 logo=twitter&style=for-the-badge"/>
+<img src="[https://img.shields.io/twitter/follow/sonu_singh_0328 logo=twitter&style=for-the-badge](https://img.shields.io/twitter/follow/sonu_singh_0328?logo=twitter&style=for-the-badge)"/>
 </a>
 </p>
 
