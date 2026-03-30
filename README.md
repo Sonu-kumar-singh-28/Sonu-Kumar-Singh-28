@@ -66,5 +66,13 @@
 </p>  
 
 <p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=Sonu-kumar-singh-28"/> 
+</p>
+
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=Sonu-kumar-singh-28"/> 
+</p>
+
+<p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28"/> 
 </p>
