@@ -61,17 +61,9 @@
 <h3 align="center">📊 GitHub Stats</h3>  
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonu-kumar-singh-28&show_icons=true&locale=en" height="165"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonu-kumar-singh-28&show_icons=true&locale=en&layout=compact" height="165"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&locale=en" height="165"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&show_icons=true&locale=en&layout=compact" height="165"/> 
 </p>  
-
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Sonu-kumar-singh-28"/> 
-</p>
-
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Sonu-kumar-singh-28"/> 
-</p>
 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28"/> 
