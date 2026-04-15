@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <!-- Android Advanced Stack Icons -->
+  <!-- Android Advanced Stack -->
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=for-the-badge"/>
@@ -82,12 +82,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=radical&hide_border=true"/>
 </p>
 
 ---
