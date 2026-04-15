@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
 
-<h3 align="center">I’m Student of B.Tech (CSE) Working To Improve My Personality 🚀</h3>
+<h3 align="center">Android Developer 📱 | Kotlin Enthusiast 🚀 | Building Scalable Apps</h3>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -19,17 +19,18 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Software Engineer – Android | Native Android Developer  
-- 💬 Ask me about **Android, Frontend**  
-- 📫 Reach me at **sonusinghsengar28@gmail.com**  
-- ⚡ Fun fact: *I think I am funny 😄*
+- 📱 Android Developer (Kotlin + Jetpack)
+- 🌱 Currently mastering Advanced Android Architecture
+- 💬 Ask me about **Android, Kotlin, Clean Architecture**
+- 📫 Reach me at **sonusinghsengar28@gmail.com**
+- ⚡ Fun fact: *Code + Coffee = Happiness ☕😄*
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 <p align="center">
 
-  <a href="https://dev.to/iamsonusingh.dev">
+  <a href="https://dev.to/sonu-kumar-singh-28">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 
@@ -53,24 +54,83 @@
 
 ---
 
+### 🧠 Android Development Skills 🚀
+
+#### 🔹 Core
+- Kotlin
+- Coroutines (suspend, async/await)
+- Flow (StateFlow, SharedFlow)
+
+#### 🔹 Architecture
+- MVVM Architecture
+- Clean Architecture
+- SOLID Principles
+
+#### 🔹 Jetpack Components
+- Jetpack Compose
+- ViewModel
+- LiveData
+- Navigation Component
+- Paging 3
+- WorkManager
+
+#### 🔹 Dependency Injection
+- Hilt (Dagger)
+
+#### 🔹 Networking
+- Retrofit
+- REST APIs
+- JSON Parsing
+
+#### 🔹 Database
+- Room Database
+- SQLite
+
+#### 🔹 Firebase 🔥
+- Firebase Authentication
+- Firestore Database
+- Firebase Cloud Messaging (FCM)
+- Firebase Storage
+- Crashlytics
+
+#### 🔹 Testing & Debugging
+- JUnit
+- Espresso
+- LeakCanary
+
+#### 🔹 DevOps & Tools
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- ProGuard / R8
+
+#### 🔹 Deployment
+- Play Store Publishing
+- App Signing
+- Release Management
+
+---
+
 ### 🛠️ Languages and Tools
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=android,c,cpp,css,html,java,js,kotlin" />
-
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,cpp,c,html,css,js,git,firebase" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (White Theme 🤍)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=default&hide_border=true"/>
 </p>
+
+---
+
+### ✍️ Dev.to Articles
+- 🔗 https://dev.to/sonu-kumar-singh-28
 
 ---
 
