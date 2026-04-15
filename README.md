@@ -4,15 +4,15 @@
 
 <h3 align="center">I’m Student of B.Tech (CSE) Working To Improve My Personality 🚀</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20views&color=0e75b6&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://x.com/sonu_singh_0328" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sonu_singh_0328?logo=twitter&style=for-the-badge"/>
+    <img src="https://img.shields.io/twitter/follow/sonu_singh_0328?logo=twitter&style=for-the-badge&color=1DA1F2"/>
   </a>
 </p>
 
@@ -27,26 +27,26 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left" style="display: flex; gap: 15px; align-items: center;">
+<p align="center">
 
-  <a href="https://dev.to/iamsonusingh.dev" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
+  <a href="https://dev.to/iamsonusingh.dev">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 
-  <a href="https://x.com/sonu_singh_0328" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
+  <a href="https://x.com/sonu_singh_0328">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/sonu-kumar-singh28/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  <a href="https://www.linkedin.com/in/sonu-kumar-singh28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/kshatriya_sonu.rajputt_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
+  <a href="https://instagram.com/kshatriya_sonu.rajputt_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://www.youtube.com/@thedevlopersonurajput" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
+  <a href="https://www.youtube.com/@thedevlopersonurajput">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
 </p>
@@ -54,23 +54,9 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<p align="center">
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=android,c,cpp,css,html,java,js,kotlin" />
 
 </p>
 
@@ -78,16 +64,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 💡 Quote
-> "Consistency is what transforms average into excellence." 🚀
+<p align="center">
+  <b>"Consistency is what transforms average into excellence." 🚀</b>
+</p>
