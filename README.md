@@ -29,15 +29,19 @@
   <a href="https://dev.to/iamsonusingh.dev" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/sonu_singh_0328" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sonu-kumar-singh28/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/kshatriya_sonu.rajputt_" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@thedevlopersonurajput" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
   </a>
@@ -47,12 +51,19 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
 </p>
 
@@ -62,6 +73,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&locale=en" height="165"/>
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&show_icons=true&locale=en&layout=compact" height="165"/>
 </p>
 
