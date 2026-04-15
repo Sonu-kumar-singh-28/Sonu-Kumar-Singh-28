@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
 
-<h3 align="center">Android Developer 📱 | Kotlin Enthusiast 🚀 | Building Scalable Apps</h3>
+<h3 align="center">I’m Student of B.Tech (CSE) Working To Improve My Personality 🚀</h3>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -19,15 +19,14 @@
 ---
 
 ### 🚀 About Me
-- 📱 Android Developer (Kotlin + Jetpack)
-- 🌱 Currently mastering Advanced Android Architecture
-- 💬 Ask me about **Android, Kotlin, Clean Architecture**
-- 📫 Reach me at **sonusinghsengar28@gmail.com**
-- ⚡ Fun fact: *Code + Coffee = Happiness ☕😄*
+- 🌱 Software Engineer – Android | Native Android Developer  
+- 💬 Ask me about **Android, Frontend**  
+- 📫 Reach me at **sonusinghsengar28@gmail.com**  
+- ⚡ Fun fact: *I think I am funny 😄*
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with me
 <p align="center">
 
   <a href="https://dev.to/sonu-kumar-singh-28">
@@ -54,83 +53,42 @@
 
 ---
 
-### 🧠 Android Development Skills 🚀
-
-#### 🔹 Core
-- Kotlin
-- Coroutines (suspend, async/await)
-- Flow (StateFlow, SharedFlow)
-
-#### 🔹 Architecture
-- MVVM Architecture
-- Clean Architecture
-- SOLID Principles
-
-#### 🔹 Jetpack Components
-- Jetpack Compose
-- ViewModel
-- LiveData
-- Navigation Component
-- Paging 3
-- WorkManager
-
-#### 🔹 Dependency Injection
-- Hilt (Dagger)
-
-#### 🔹 Networking
-- Retrofit
-- REST APIs
-- JSON Parsing
-
-#### 🔹 Database
-- Room Database
-- SQLite
-
-#### 🔹 Firebase 🔥
-- Firebase Authentication
-- Firestore Database
-- Firebase Cloud Messaging (FCM)
-- Firebase Storage
-- Crashlytics
-
-#### 🔹 Testing & Debugging
-- JUnit
-- Espresso
-- LeakCanary
-
-#### 🔹 DevOps & Tools
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- ProGuard / R8
-
-#### 🔹 Deployment
-- Play Store Publishing
-- App Signing
-- Release Management
-
----
-
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools 🚀
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,cpp,c,html,css,js,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,cpp,c,html,css,js,git,firebase,sqlite,gradle" />
+</p>
+
+<p align="center">
+  <!-- Android Advanced Stack Icons -->
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flow-00BCD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Paging%203-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WorkManager-607D8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Espresso-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeakCanary-FF4081?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ProGuard-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats (White Theme 🤍)
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=default&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=default&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-### ✍️ Dev.to Articles
-- 🔗 https://dev.to/sonu-kumar-singh-28
 
 ---
 
