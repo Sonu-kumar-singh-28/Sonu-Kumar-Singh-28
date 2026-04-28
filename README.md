@@ -82,12 +82,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-kumar-singh-28&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
