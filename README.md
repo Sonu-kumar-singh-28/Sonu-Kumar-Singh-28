@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>  
 
-<h3 align="center">I’m Student of B.Tech (CSE) Working Tssso Improve My Personality 🚀</h3>  
+<h3 align="center">I’m Student of B.Tech (CSE) Working To Improve My Personality 🚀</h3>  
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
