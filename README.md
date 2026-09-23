@@ -122,30 +122,6 @@
   />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sonu-kumar-singh-28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
 ### 💡 Quote
 
 <p align="center">
