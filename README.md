@@ -1,19 +1,8 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<div align="center">
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sonu%20Kumar%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Native%20Android%20Developer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18" />
-</div>
-
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-<div align="center">
-  <a href="https://github.com/sonu-kumar-singh-28">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Kumar+Singh;Native+Android+Developer+%7C+Kotlin;Building+with+Jetpack+Compose+%F0%9F%9A%80;Exploring+Flutter+%26+Dart+%F0%9F%A6%8B;Clean+Architecture+%7C+MVVM+%7C+Hilt" />
-  </a>
-</div>
-
-<br/>
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
+<h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
+
+<h3 align="center">Native Android Developer | Flutter Developer | Kotlin | Dart | Cross-Platform Developer 🚀</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="center">
