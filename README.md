@@ -1,81 +1,83 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<div align="center">
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sonu%20Kumar%20Singh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Native%20Android%20Developer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
+<div align="center">
+  <a href="https://github.com/sonu-kumar-singh-28">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=750&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Kumar+Singh;Native+Android+Developer+%7C+Kotlin;Building+with+Jetpack+Compose+%F0%9F%9A%80;Exploring+Flutter+%26+Dart+%F0%9F%A6%8B;Clean+Architecture+%7C+MVVM+%7C+Hilt" />
+  </a>
+</div>
 
-<h3 align="center">Native Android Developer | Flutter Developer | Kotlin | Dart | Cross-Platform Developer 🚀</h3>
+<br/>
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+<!-- ═══════════════════════ BADGES ═══════════════════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sonu-kumar-singh-28?style=for-the-badge&logo=github&color=181717" alt="Followers" />
   <a href="https://x.com/sonu_singh_0328" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sonu_singh_0328?logo=twitter&style=for-the-badge&color=1DA1F2"/>
+    <img src="https://img.shields.io/badge/Follow-@sonu__singh__0328-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-* 👨‍💻 Native **Android Developer** focused on **Kotlin**
-* 📱 Building modern Android applications with **Jetpack Compose**
-* 🦋 Exploring **Flutter & Dart** for cross-platform development
-* 🏗️ Experienced with **MVVM, Clean Architecture & Dependency Injection**
-* 🔥 Working with **Firebase, REST APIs & Room Database**
-* 💬 Ask me about **Android, Kotlin, Flutter & Frontend**
-* 📫 Reach me at **[sonusinghsengar28@gmail.com](mailto:sonusinghsengar28@gmail.com)**
-* ⚡ Fun fact: *I think I am funny 😄*
+<table>
+<tr>
+<td>
 
----
+👨‍💻 &nbsp;Native **Android Developer** focused on **Kotlin**
 
-### 🌐 Connect with Me
+📱 &nbsp;Building modern Android apps with **Jetpack Compose**
 
-<p align="center">
+🦋 &nbsp;Exploring **Flutter & Dart** for cross-platform development
 
-<a href="https://github.com/sonu-kumar-singh-28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🏗️ &nbsp;Experienced with **MVVM, Clean Architecture & Dependency Injection**
 
-<a href="https://www.linkedin.com/in/sonu-kumar-singh28/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🔥 &nbsp;Working with **Firebase, REST APIs & Room Database**
 
-<a href="https://x.com/sonu_singh_0328">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+💬 &nbsp;Ask me about **Android, Kotlin, Flutter & Frontend**
 
-<a href="https://dev.to/sonu-kumar-singh-28">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
+📫 &nbsp;Reach me at **[sonusinghsengar28@gmail.com](mailto:sonusinghsengar28@gmail.com)**
 
-<a href="https://instagram.com/kshatriya_sonu.rajputt_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+⚡ &nbsp;Fun fact: *I think I am funny* 😄
 
-<a href="https://www.youtube.com/@thedevlopersonurajput">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,dart,java,cpp,html,css,git,github,firebase,gradle" />
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,cpp,html,css&perline=6" alt="Languages" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+### 📱 Frameworks & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=android,flutter,firebase,gradle&perline=4" alt="Frameworks" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,figma,postman,vscode&perline=6" alt="Tools" />
+</p>
+
+### 🏛️ Architecture & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -87,28 +89,34 @@
 
 ---
 
+<!--
+═══════════════════ FEATURED PROJECTS ═══════════════════
+Isse use karne ke liye: is block ke start aur end wale comment tags hata do
+aur YOUR-REPO-1 / YOUR-REPO-2 ko apne repo ke naam se replace karo.
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/sonu-kumar-singh-28/YOUR-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonu-kumar-singh-28&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/sonu-kumar-singh-28/YOUR-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonu-kumar-singh-28&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+-->
+
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<a href="https://github.com/sonu-kumar-singh-28">
-  <img
-    height="180"
-    width="400"
-    src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&card_width=400"
-    alt="GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/sonu-kumar-singh-28">
-  <img
-    height="180"
-    width="400"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400"
-    alt="Top Languages"
-  />
-</a>
-
+  <a href="https://github.com/sonu-kumar-singh-28">
+    <img height="180" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" />
+  </a>
+  <a href="https://github.com/sonu-kumar-singh-28">
+    <img height="180" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400" />
+  </a>
 </p>
 
 ---
@@ -116,18 +124,56 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true" />
 </p>
 
-### 💡 Quote
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <b>"Consistency is what transforms average into excellence." 🚀</b>
+  <img alt="Contribution Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sonu-kumar-singh-28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sonu-kumar-singh28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/sonu_singh_0328">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://dev.to/sonu-kumar-singh-28">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://instagram.com/kshatriya_sonu.rajputt_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@thedevlopersonurajput">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:sonusinghsengar28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+<h3 align="center"><i>"Consistency is what transforms average into excellence."</i> 🚀</h3>
 
 <p align="center">
   ⭐ If you like my work, consider giving my repositories a star!
 </p>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<div align="center">
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</div>
