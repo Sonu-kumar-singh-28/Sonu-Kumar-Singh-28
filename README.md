@@ -12,17 +12,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ BADGES ═══════════════════════ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sonu-kumar-singh-28?style=for-the-badge&logo=github&color=181717" alt="Followers" />
-  <a href="https://x.com/sonu_singh_0328" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-@sonu__singh__0328-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-  </a>
-</p>
-
----
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
