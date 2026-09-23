@@ -33,16 +33,21 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://dev.to/sonu-kumar-singh-28">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
 
-  <a href="https://x.com/sonu_singh_0328">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://github.com/sonu-kumar-singh-28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/sonu-kumar-singh28/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/sonu_singh_0328">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://dev.to/sonu-kumar-singh-28">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 
   <a href="https://instagram.com/kshatriya_sonu.rajputt_">
@@ -53,9 +58,6 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/sonu-kumar-singh-28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -87,40 +89,48 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contributions
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
- height="180"
- alt="Top Languages"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 ---
 
-### 📈 GitHub Activity
+### 📈 My GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <a href="https://github.com/sonu-kumar-singh-28">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true&area=true"
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+
+  <a href="https://github.com/Sonu-kumar-singh-28/NexusArena-Esports-Management-System">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu-kumar-singh-28&repo=NexusArena-Esports-Management-System&theme=tokyonight&hide_border=true"
+      alt="NexusArena"
+    />
+  </a>
+
+  <a href="https://github.com/Sonu-kumar-singh-28/Chatting-App">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu-kumar-singh-28&repo=Chatting-App&theme=tokyonight&hide_border=true"
+      alt="Chatting App"
+    />
+  </a>
+
 </p>
 
 ---
@@ -130,8 +140,6 @@
 <p align="center">
   <b>"Consistency is what transforms average into excellence." 🚀</b>
 </p>
-
----
 
 <p align="center">
   ⭐ If you like my work, consider giving my repositories a star!
