@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
 
-<h3 align="center">Native Android Developer | Kotlin | Jetpack Compose | Building Real-World Android Applications 🚀</h3>
+<h3 align="center">Native Android Developer | Kotlin | Flutter | DART ?|Cross Platform Developer </h3>
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
