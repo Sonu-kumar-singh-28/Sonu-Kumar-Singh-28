@@ -110,21 +110,43 @@
     />
   </a>
 
-  ### 📊 GitHub Stats
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Sonu Kumar Singh GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Sonu Kumar Singh Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"
+    alt="Sonu Kumar Singh GitHub Streak"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sonu-kumar-singh-28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+    alt="Sonu Kumar Singh GitHub Trophies"
+  />
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sonu-kumar-singh-28/sonu-kumar-singh-28/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
