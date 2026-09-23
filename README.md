@@ -109,28 +109,22 @@
       alt="GitHub Activity Graph"
     />
   </a>
-</p>
 
----
-
-### 📌 Featured Projects
+  ### 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-  <a href="https://github.com/Sonu-kumar-singh-28/NexusArena-Esports-Management-System">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu-kumar-singh-28&repo=NexusArena-Esports-Management-System&theme=tokyonight&hide_border=true"
-      alt="NexusArena"
-    />
-  </a>
-
-  <a href="https://github.com/Sonu-kumar-singh-28/Chatting-App">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu-kumar-singh-28&repo=Chatting-App&theme=tokyonight&hide_border=true"
-      alt="Chatting App"
-    />
-  </a>
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 </p>
 
 ---
