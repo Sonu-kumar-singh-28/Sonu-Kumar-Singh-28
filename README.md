@@ -136,17 +136,6 @@
   />
 </p>
 
-### 💡 Quote
-
-<p align="center">
-  <b>"Consistency is what transforms average into excellence." 🚀</b>
-</p>
-
-<p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
-</p>
-
----
 
 ## 💡 Quote
 
