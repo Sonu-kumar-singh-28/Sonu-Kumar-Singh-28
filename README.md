@@ -1,136 +1,170 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-
-<h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
-
-<h3 align="center">Native Android Developer | Flutter Developer | Kotlin | Dart | Cross-Platform Developer 🚀</h3>
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://x.com/sonu_singh_0328" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sonu_singh_0328?logo=twitter&style=for-the-badge&color=1DA1F2"/>
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-* 👨‍💻 Native **Android Developer** focused on **Kotlin**
-* 📱 Building modern Android applications with **Jetpack Compose**
-* 🦋 Exploring **Flutter & Dart** for cross-platform development
-* 🏗️ Experienced with **MVVM, Clean Architecture & Dependency Injection**
-* 🔥 Working with **Firebase, REST APIs & Room Database**
-* 💬 Ask me about **Android, Kotlin, Flutter & Frontend**
-* 📫 Reach me at **[sonusinghsengar28@gmail.com](mailto:sonusinghsengar28@gmail.com)**
-* ⚡ Fun fact: *I think I am funny 😄*
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/sonu-kumar-singh-28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sonu-kumar-singh28/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/sonu_singh_0328">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://dev.to/sonu-kumar-singh-28">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/kshatriya_sonu.rajputt_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@thedevlopersonurajput">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,dart,java,cpp,html,css,git,github,firebase,gradle" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flow-00BCD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<a href="https://github.com/sonu-kumar-singh-28">
-  <img
-    height="180"
-    width="400"
-    src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&card_width=400"
-    alt="GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/sonu-kumar-singh-28">
-  <img
-    height="180"
-    width="400"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400"
-    alt="Top Languages"
-  />
-</a>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-## 💡 Quote
-
-<h3 align="center"><i>"Consistency is what transforms average into excellence."</i> 🚀</h3>
-
-<p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
-</p>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<img src="assets/sonu-hero.svg" alt="Sonu Kumar Singh, Android Engineer. Kotlin, Jetpack Compose, Flutter." width="100%" />
+
+# Hi, I'm Sonu Kumar Singh
+
+**Native Android Developer** focused on Kotlin, Jetpack Compose, modern application architecture, and cross-platform development with Flutter.
+
+Computer Science & Engineering student · Based in Bihar, India
+
+<img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Android with Kotlin" />
+<img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Cross--Platform-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views counter" />
+
 </div>
+
+## About me
+
+- Native Android development in **Kotlin**, with **Jetpack Compose** and XML layouts for UI.
+- Applying **MVVM** and Clean Architecture fundamentals, with **Hilt** for dependency injection.
+- Integrating **REST APIs** with Retrofit and Coroutines, and caching data with **Room**.
+- Working with **Firebase** (Authentication, Realtime Database) in several projects.
+- Exploring **Flutter and Dart** for cross-platform apps.
+- Learning through practical projects, one working feature at a time.
+
+> *Make it work, make it readable, then make it better.*
+
+## Current engineering focus
+
+| Area | Focus |
+| --- | --- |
+| Primary focus | Android development |
+| Language | Kotlin |
+| UI toolkit | Jetpack Compose |
+| Architecture | MVVM, Clean Architecture |
+| Networking | Retrofit, REST APIs |
+| Local persistence | Room Database |
+| Asynchronous work | Coroutines, Flow |
+| Dependency injection | Hilt |
+| Cross-platform | Flutter, Dart (exploring) |
+
+## Technology stack
+
+*Technologies I use, study, or explore. Depth varies by item, see the learning path below.*
+
+**Android core**<br>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle&theme=dark" alt="Android Studio, Kotlin, Java, Gradle" />
+
+**Backend services and data**<br>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />
+<img src="https://img.shields.io/badge/Retrofit-REST%20APIs-48B983?style=flat-square" alt="Retrofit and REST APIs" />
+<img src="https://img.shields.io/badge/Room-Database-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Room Database" />
+
+**Architecture and concurrency**<br>
+<img src="https://img.shields.io/badge/MVVM-A78BFA?style=flat-square" alt="MVVM" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-A78BFA?style=flat-square" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Coroutines" />
+<img src="https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Flow" />
+<img src="https://img.shields.io/badge/Hilt-DI-34A853?style=flat-square" alt="Hilt dependency injection" />
+
+**Cross-platform**<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter, Dart" />
+
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-exploring-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions, exploring" />
+
+## Android engineering toolkit
+
+| Topic | What I work with |
+| --- | --- |
+| Modern UI | Jetpack Compose, Material Design, XML layouts |
+| Architecture | MVVM, separation of concerns, Clean Architecture fundamentals |
+| Networking | Retrofit, REST APIs, JSON |
+| Async work | Kotlin Coroutines, Flow (learning) |
+| Persistence | Room Database |
+| Dependency injection | Hilt |
+| Backend services | Firebase Authentication, Realtime Database, Cloud Messaging |
+| Testing | JUnit, Espresso (learning) |
+| Build and delivery | Gradle, Git, GitHub Actions (exploring) |
+
+<details>
+<summary><b>Retrofit in one minute</b></summary>
+
+Retrofit is a type-safe HTTP client for Android and Java. You describe a REST API as an interface, and Retrofit turns it into network calls. It is a networking library, not a database or a server.
+
+Illustrative sketch (the `User` model and Retrofit setup are omitted, so this is not standalone-compilable):
+
+```kotlin
+import retrofit2.http.GET
+
+interface ApiService {
+    @GET("users")
+    suspend fun getUsers(): List<User>
+}
+```
+
+</details>
+
+## Selected engineering projects
+
+Details below come from each repository's own README. Repos are public; none is claimed as production-ready.
+
+**[News Reader App](https://github.com/Sonu-kumar-singh-28/News-Reader-App)**<br>
+News app with category browsing, search, offline reading and bookmarks.<br>
+*Kotlin · MVVM · Retrofit · Coroutines · Room · Hilt · Firebase Auth · Jetpack Compose*
+
+**[Food Delivery App](https://github.com/Sonu-kumar-singh-28/Food--Delivery--App)**<br>
+Food ordering app with a cart, order placement and offline caching.<br>
+*Kotlin · MVVM · Repository pattern · Hilt · Room · Firebase Realtime Database*
+
+**[Chatting App](https://github.com/Sonu-kumar-singh-28/Chatting-App)**<br>
+Real-time one-on-one messaging with login, user search and profile screens.<br>
+*Kotlin · Firebase Realtime Database · Firebase Cloud Messaging*
+
+**[Weather App 2.0 (Xyvento)](https://github.com/Sonu-kumar-singh-28/Weather-App-2.0)**<br>
+Global city weather search with humidity, wind, pressure and sunrise/sunset, plus registration, login and password reset.<br>
+*Kotlin · Weather API · Firebase Auth*
+
+**[KrishiSahayak, Smart Farming Advisory System](https://github.com/Sonu-kumar-singh-28/KrishiSahayak-Smart-Farming-Advisory-System)**<br>
+Crop advisory concept for small farmers. Its README describes the full vision (AI advisory, weather, marketplace), so treat it as a work in progress.<br>
+*Kotlin · Flutter (per README) · Firebase*
+
+## Architecture showcase
+
+<div align="center">
+<img src="assets/android-engineering.svg" alt="Conceptual layered Android architecture: Compose UI, ViewModel, use cases, repositories, Retrofit and Room, supported by Coroutines, Flow and Hilt." width="85%" />
+</div>
+
+*A conceptual example, not a claim that every project uses every layer.*
+
+## Engineering activity
+
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for sonu-kumar-singh-28" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages for sonu-kumar-singh-28" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for sonu-kumar-singh-28" />
+</p>
+
+## Engineering principles
+
+- **Readable first.** Clear code beats clever code.
+- **Maintainable over quick.** Shortcuts become tomorrow's bugs.
+- **Thoughtful UX.** Every screen should be easy to understand.
+- **Learn by building.** Practical projects teach more than tutorials alone.
+
+## Current learning path
+
+- Deepening Kotlin knowledge
+- Building stronger Jetpack Compose interfaces
+- Improving Android architecture skills
+- Exploring Flutter and Dart
+- Understanding reliable API and database integration
+- Improving automated testing and release workflows
+
+## Connect
+
+[GitHub](https://github.com/sonu-kumar-singh-28) · [LinkedIn](https://www.linkedin.com/in/sonu-kumar-singh28/) · [X](https://x.com/sonu_singh_0328) · [DEV Community](https://dev.to/sonu-kumar-singh-28) · [Instagram](https://instagram.com/kshatriya_sonu.rajputt_) · [YouTube](https://www.youtube.com/@thedevlopersonurajput)
+
+## Let's build something meaningful
+
+Happy to talk about Android, Kotlin, Flutter, interesting software projects, or technical collaboration.<br>
+Email: [sonusinghsengar28@gmail.com](mailto:sonusinghsengar28@gmail.com) · Profile: [github.com/sonu-kumar-singh-28](https://github.com/sonu-kumar-singh-28)
+
+If you like my work, a star on a repository is always appreciated.
+
+<img src="assets/sonu-footer.svg" alt="SONU.DEV, Android engineering portfolio" width="100%" />
