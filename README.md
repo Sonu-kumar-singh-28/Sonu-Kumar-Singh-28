@@ -1,10 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Sonu-kumar-singh-28)
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
 
 <h3 align="center">Mobile Platform Engineer | Native Android Developer | Flutter Developer | Kotlin | Dart 🚀</h3>
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding Animation"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -28,6 +29,8 @@
 * 💬 Ask me about **Android, Kotlin, Flutter & Frontend**
 * 📫 Reach me at **[sonusinghsengar28@gmail.com](mailto:sonusinghsengar28@gmail.com)**
 * ⚡ Fun fact: *I think I am funny 😄*
+
+<br clear="both"/>
 
 ---
 
@@ -87,30 +90,61 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📅 GitHub Contribution Calendar
 
 <p align="center">
-
-<a href="https://github.com/sonu-kumar-singh-28">
   <img
-    height="180"
-    width="400"
-    src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&card_width=400"
-    alt="GitHub Stats"
+    src="https://ghchart.rshah.org/8B5CF6/sonu-kumar-singh-28"
+    alt="GitHub Contribution Calendar"
+    width="100%"
   />
-</a>
-
-<a href="https://github.com/sonu-kumar-singh-28">
-  <img
-    height="180"
-    width="400"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400"
-    alt="Top Languages"
-  />
-</a>
-
 </p>
 
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/activity-graph.svg"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
+---
+
+## 💡 Quote
+
+<h3 align="center">
+  <i>"Consistency is what transforms average into excellence."</i> 🚀
+</h3>
+
+<p align="center">
+  ⭐ If you like my work, consider giving my repositories a star!
+</p>
 
 ---
 
@@ -125,54 +159,37 @@
 
 ---
 
-
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
-</p>
----
-
-## 📈 GitHub Contribution Calendar
-
-<p align="center">
   <img
-    src="https://ghchart.rshah.org/8B5CF6/sonu-kumar-singh-28"
-    alt="GitHub Contribution Calendar"
+    src="./github-metrics.svg"
     width="100%"
+    alt="GitHub Metrics"
   />
 </p>
 
 ---
 
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
-</p>
-
-
----
-
-## 🐍 Contribution Graph
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <a href="https://github.com/sonu-kumar-singh-28">
+    <img
+      height="180"
+      width="400"
+      src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&card_width=400"
+      alt="GitHub Stats"
+    />
+  </a>
 </p>
 
 ---
-
-## 💡 Quote
-
-<h3 align="center"><i>"Consistency is what transforms average into excellence."</i> 🚀</h3>
-
-<p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
-</p>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img
+    width="100%"
+    alt="Footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
+  />
 </div>
