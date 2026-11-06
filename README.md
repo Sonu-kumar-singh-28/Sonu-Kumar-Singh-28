@@ -112,13 +112,15 @@
   />
 </p>
 
+---
+
+## 🐍 Contribution Graph
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/activity-graph.svg"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
+
+---
 
 ## 💡 Quote
 
