@@ -1,3 +1,4 @@
+
 name: Update GitHub Activity Graph
 
 on:
@@ -14,12 +15,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: Sonu-kumar-singh-28
+          username: sonu-kumar-singh-28
           options: theme=tokyo-night&hide_border=true&area=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
