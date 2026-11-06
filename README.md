@@ -151,14 +151,7 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sonu-kumar-singh-28/sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sonu-kumar-singh-28/sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg)
 ## 💡 Quote
 
 <h3 align="center"><i>"Consistency is what transforms average into excellence."</i> 🚀</h3>
