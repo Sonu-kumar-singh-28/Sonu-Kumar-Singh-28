@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
 
-<h3 align="center">Native Android Developer | Flutter Developer | Kotlin | Dart | Cross-Platform Developer 🚀</h3>
+<h3 align="center">Mobile Platform Engineer | Native Android Developer | Flutter Developer | Kotlin | Dart 🚀</h3>
+
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="center">
@@ -121,6 +122,31 @@
   />
 </p>
 
+---
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&custom_title=Sonu%20Kumar%20Singh%20-%20Contribution%20Activity"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/sonu-kumar-singh-28/sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
+</p>
+
+---
 
 ## 💡 Quote
 
@@ -131,6 +157,7 @@
 </p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
 <div align="center">
   <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
