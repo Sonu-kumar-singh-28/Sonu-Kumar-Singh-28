@@ -124,30 +124,41 @@
 
 ---
 
-## 📈 GitHub Contribution Activity
+---
+
+## 📈 GitHub Contribution Calendar
 
 <p align="center">
   <img
+    src="https://ghchart.rshah.org/8B5CF6/sonu-kumar-singh-28"
+    alt="GitHub Contribution Calendar"
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&custom_title=Sonu%20Kumar%20Singh%20-%20Contribution%20Activity"
-    alt="GitHub Contribution Activity Graph"
   />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 📊 GitHub Activity Graph
 
 <p align="center">
   <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
     width="100%"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
     src="https://raw.githubusercontent.com/sonu-kumar-singh-28/sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake Animation"
+    alt="GitHub Contribution Snake"
+    width="100%"
   />
 </p>
-
----
-
 ## 💡 Quote
 
 <h3 align="center"><i>"Consistency is what transforms average into excellence."</i> 🚀</h3>
