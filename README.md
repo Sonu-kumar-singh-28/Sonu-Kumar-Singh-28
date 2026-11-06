@@ -142,13 +142,7 @@
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <a href="https://github.com/sonu-kumar-singh-28">
-    <img
-      src="https://YOUR-VERCEL-DOMAIN.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true&area=true"
-      alt="Sonu Kumar Singh GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
+  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 
