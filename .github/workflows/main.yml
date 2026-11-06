@@ -1,31 +1,28 @@
 
-name: Update GitHub Activity Graph
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          username: Sonu-kumar-singh-28
-          options: "theme=tokyo-night&hide_border=true&area=true"
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Sonu-kumar-singh-28
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Activity Graph
+      - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
