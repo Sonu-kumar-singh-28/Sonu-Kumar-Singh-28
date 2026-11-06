@@ -1,29 +1,32 @@
 
-name: Generate Snake
+name: Update GitHub Activity Graph
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
-
-permissions:
-  contents: write
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Sonu-kumar-singh-28
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    permissions:
+      contents: write
 
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: Sonu-kumar-singh-28
+          options: "theme=tokyo-night&hide_border=true&area=true"
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish Activity Graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
