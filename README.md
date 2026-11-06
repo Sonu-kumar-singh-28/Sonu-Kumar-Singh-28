@@ -145,18 +145,19 @@
       alt="GitHub Stats"
     />
   </a>
-
-  <a href="https://github.com/sonu-kumar-singh-28">
+  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg"/>
     <img
-      height="180"
-      width="400"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400"
-      alt="Top Languages"
-    />
-  </a>
+      src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"/>
+  </picture>
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
