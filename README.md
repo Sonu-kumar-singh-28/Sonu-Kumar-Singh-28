@@ -142,13 +142,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+    alt="Sonu Kumar Singh GitHub Activity Graph"
     width="100%"
   />
 </p>
-
----
 
 
 ---
