@@ -1,205 +1,306 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:06B6D4&height=230&section=header&text=SONU%20KUMAR%20SINGH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descSize=15&descAlignY=58&animation=fadeIn)](https://github.com/sonu-kumar-singh-28)
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- SONU KUMAR SINGH | CINEMATIC DEVELOPER PROFILE         -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 👋 Hey, I'm Sonu Kumar Singh
-
-### `Native Android Developer` · `Flutter Developer` · `Mobile Engineer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Android+Applications;Crafting+Beautiful+Jetpack+Compose+UIs;Exploring+Flutter+%26+Cross-Platform+Development;Turning+Ideas+Into+Real+Applications" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,45:171044,100:075985&text=SONU%20KUMAR%20SINGH&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=MOBILE%20PLATFORM%20ENGINEER&descSize=16&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=8B9CFF&center=true&vCenter=true&width=650&lines=Engineering+Modern+Mobile+Experiences;Native+Android+%7C+Kotlin+%7C+Jetpack+Compose;Flutter+%7C+Dart+%7C+Cross-Platform;Turning+Ideas+Into+Scalable+Applications" />
+
+<br/><br/>
+
 <a href="https://github.com/sonu-kumar-singh-28">
-<img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
 </a>
+&nbsp;
 <a href="https://github.com/sonu-kumar-singh-28?tab=followers">
-<img src="https://img.shields.io/github/followers/sonu-kumar-singh-28?label=FOLLOWERS&style=for-the-badge&color=06B6D4" />
+<img src="https://img.shields.io/github/followers/sonu-kumar-singh-28?style=flat-square&color=0891B2&label=FOLLOWERS" />
 </a>
+
+<br/><br/>
+
+`ANDROID` &nbsp;·&nbsp; `KOTLIN` &nbsp;·&nbsp; `COMPOSE` &nbsp;·&nbsp; `FLUTTER`
 
 </div>
 
 ---
 
-## 🧬 About Me
+<!-- 01 / INTRODUCTION -->
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
 
-I'm a passionate **Mobile Application Developer** focused on building modern, scalable and user-friendly applications.
+### 01 / THE ENGINEER
 
-- 📱 Native Android Development with Kotlin.
-- 🎨 Modern UI development using Jetpack Compose.
-- 🦋 Cross-platform development with Flutter & Dart.
-- 🏗️ Application architecture: MVVM & Clean Architecture.
-- 🔥 Backend integration with Firebase and REST APIs.
-- 💾 Local database management with Room.
-- ⚡ Exploring modern mobile technologies and development practices.
-- 🎯 Always learning, building and improving.
+# Building Beyond The Interface.
+
+</div>
+
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm **Sonu Kumar Singh**, a Mobile Platform Engineer passionate about engineering modern mobile applications and creating seamless digital experiences.
+
+- Building native Android applications.
+- Engineering interfaces with Jetpack Compose.
+- Exploring Flutter and cross-platform development.
+- Applying MVVM and Clean Architecture.
+- Integrating Firebase, REST APIs and databases.
+- Continuously exploring modern mobile technologies.
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Developer Identity
+<!-- 02 / ENGINEERING STACK -->
 
 <div align="center">
 
-| Focus Area | Technologies |
-|:---:|:---|
-| 📱 Android | Kotlin, Jetpack Compose, XML |
-| 🦋 Cross Platform | Flutter, Dart |
-| 🏛️ Architecture | MVVM, Clean Architecture |
-| 🌐 Networking | Retrofit, REST API |
-| 💾 Database | Room, Firebase Firestore |
-| ⚙️ Development | Coroutines, Flow, Hilt |
-| 🚀 Tools | Android Studio, Git, GitHub |
+### 02 / TECHNOLOGY
 
-</div>
+# The Engineering Stack.
 
----
+<sub>Tools and technologies behind the applications I build.</sub>
 
-## 🛠️ Technology Universe
+<br/><br/>
 
-### 💻 Languages
+**LANGUAGES**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,dart,java,cpp,js,html,css&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=kotlin,dart,java,cpp,js&theme=dark" />
 
-### 📱 Mobile Development
+<br/><br/>
 
-<p align="center">
+**MOBILE DEVELOPMENT**
+
 <img src="https://skillicons.dev/icons?i=androidstudio,android,flutter&theme=dark" />
-</p>
 
-### 🔥 Backend & Database
+<br/><br/>
 
-<p align="center">
+**BACKEND & DATABASE**
+
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite&theme=dark" />
-</p>
 
-### ⚙️ Tools & Technologies
+<br/><br/>
 
-<p align="center">
+**TOOLS & ECOSYSTEM**
+
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,gradle,postman,vscode&theme=dark" />
-</p>
-
-### 🧩 Android Engineering Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/MVVM-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Flow-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hilt-34A853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Room_Database-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- 03 / ENGINEERING CAPABILITIES -->
 
 <div align="center">
+
+### 03 / CAPABILITIES
+
+# Beyond Writing Code.
+
+<br/>
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**01 — ANDROID ENGINEERING**
+
+Kotlin · Jetpack Compose · XML
+
+MVVM · Clean Architecture
+
+Coroutines · Flow
+
+Hilt · Room · DataStore
+
+</td>
+<td width="50%" valign="top">
+
+**02 — CROSS-PLATFORM**
+
+Flutter · Dart
+
+Reusable UI Components
+
+State Management
+
+Cross-Platform Experiences
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 — CONNECTIVITY**
+
+Retrofit · REST APIs
+
+Firebase Authentication
+
+Cloud Firestore · FCM
+
+API Integration
+
+</td>
+<td width="50%" valign="top">
+
+**04 — ENGINEERING TOOLS**
+
+Git · GitHub
+
+GitHub Actions
+
+Gradle · Android Studio
+
+JUnit · Espresso
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- 04 / PROJECTS -->
+
+<div align="center">
+
+### 04 / SELECTED WORK
+
+# Things I've Built.
+
+<sub>Ideas transformed into working applications.</sub>
+
+<br/><br/>
 
 <a href="https://github.com/sonu-kumar-singh-28">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonu-kumar-singh-28&repo=The-Third-Eye&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonu-kumar-singh-28&repo=The-Third-Eye&theme=transparent&hide_border=true" />
 </a>
 
-</div>
+<br/>
 
-> Replace the repository name above with the exact public repository name of your project.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<sub>Replace or add your actual public project repository names here.</sub>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+<!-- 05 / GITHUB ANALYTICS -->
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" />
+### 05 / OPEN SOURCE ACTIVITY
+
+# The Numbers Behind The Code.
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=transparent&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- 06 / CONTRIBUTION GRAPH -->
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true" />
+### 06 / CONTRIBUTION JOURNEY
+
+# Every Commit Tells A Story.
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-kumar-singh-28&bg_color=00000000&color=8B9CFF&line=06B6D4&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+<!-- 07 / CONTRIBUTION SNAKE -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sonu-kumar-singh-28/sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+### 07 / THE CONTRIBUTION FLOW
+
+# Keep Building. Keep Moving.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/sonu-kumar-singh-28/sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+<!-- 08 / CONNECT -->
 
 <div align="center">
+
+### 08 / LET'S CONNECT
+
+# Good Things Start With A Conversation.
+
+<br/>
 
 <a href="https://github.com/sonu-kumar-singh-28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
 </a>
 <a href="https://www.linkedin.com/in/sonu-kumar-singh28/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF" />
 </a>
 <a href="https://x.com/sonu_singh_0328">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-FFFFFF?style=flat-square&logo=x&logoColor=000000" />
 </a>
 <a href="https://dev.to/sonu-kumar-singh-28">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+<img src="https://img.shields.io/badge/DEV-FFFFFF?style=flat-square&logo=dev.to&logoColor=000000" />
 </a>
 <a href="https://instagram.com/kshatriya_sonu.rajputt_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=FFFFFF" />
 </a>
 <a href="https://www.youtube.com/@thedevlopersonurajput">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=FFFFFF" />
 </a>
 
 <br/><br/>
 
-📩 **Email:** [sonusinghsengar28@gmail.com](mailto:sonusinghsengar28@gmail.com)
+<a href="mailto:sonusinghsengar28@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
+<!-- 09 / FINAL SCENE -->
+
 <div align="center">
 
-### 💭 Developer Philosophy
-
-*"Great software isn't just written. It's thoughtfully engineered."*
-
-**Keep Building. Keep Exploring. Keep Innovating.** 🚀
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,50:06B6D4,100:7C3AED" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:06B6D4&height=120&section=footer" />
+### "Great engineering is invisible. Great experiences are unforgettable."
+
+<br/>
+
+**DESIGNED WITH PURPOSE. ENGINEERED WITH PASSION.**
+
+<br/>
+
+<sub>© Sonu Kumar Singh · Mobile Platform Engineer</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:171044,100:075985" />
 
 </div>
