@@ -111,6 +111,7 @@
 
 </p>
 
+
 ---
 
 ## 🔥 GitHub Streak
@@ -124,6 +125,12 @@
 
 ---
 
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
+</p>
 ---
 
 ## 📈 GitHub Contribution Calendar
