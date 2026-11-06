@@ -138,6 +138,15 @@
 ---
 
 
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+
 ## 📈 GitHub Metrics
 
 <p align="center">
@@ -146,13 +155,6 @@
 ---
 
 
-
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
-</p>
 
 
 ---
