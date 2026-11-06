@@ -87,6 +87,18 @@
 
 ---
 
+## 📈 GitHub Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/8B5CF6/sonu-kumar-singh-28"
+    alt="GitHub Contribution Calendar"
+    width="100%"
+  />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -133,17 +145,7 @@
 </p>
 ---
 
-## 📈 GitHub Contribution Calendar
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/8B5CF6/sonu-kumar-singh-28"
-    alt="GitHub Contribution Calendar"
-    width="100%"
-  />
-</p>
-
----
 
 
 ## 📊 GitHub Activity Graph
