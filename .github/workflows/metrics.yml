@@ -1,4 +1,3 @@
-
 name: GitHub Profile Metrics
 
 on:
@@ -36,5 +35,7 @@ jobs:
 
           plugin_achievements: yes
           plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
 
           output_action: commit
