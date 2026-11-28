@@ -109,7 +109,7 @@
 <!-- 01 · SUPPORTING STATS -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/02-ENGINEERING%20STATS-242C20?style=flat-square&labelColor=657C43" alt="02 Engineering Stats" />
+  <img src="https://img.shields.io/badge/02-ENGINEERING%20STATS-242C20?style=flat-square&labelColor=657C43" alt="01 Engineering Stats" />
 </p>
 
 <table align="center">
@@ -126,7 +126,7 @@
 <!-- 02 · HERO · STREAK -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-CONSISTENCY%20STREAK-242C20?style=flat-square&labelColor=657C43" alt="01 Consistency Streak" />
+  <img src="https://img.shields.io/badge/01-CONSISTENCY%20STREAK-242C20?style=flat-square&labelColor=657C43" alt="02 Consistency Streak" />
 </p>
 
 <p align="center">
