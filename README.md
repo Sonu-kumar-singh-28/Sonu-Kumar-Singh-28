@@ -167,17 +167,19 @@
   </picture>
 </p>
 
-<!-- 05 · METRICS -->
+<!-- 05 · GITHUB ACHIEVEMENTS -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/05-PROFILE%20METRICS-242C20?style=flat-square&labelColor=657C43" alt="05 Profile Metrics" />
+  <img src="https://img.shields.io/badge/05-GITHUB%20ACHIEVEMENTS-242C20?style=flat-square&labelColor=657C43" alt="GitHub Achievements" />
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sonu-kumar-singh-28&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"
+    width="100%"
+    alt="GitHub Achievements"
+  />
 </p>
-
-<br>
 
 <!-- SIGNATURE -->
 
