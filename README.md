@@ -102,45 +102,60 @@
 <!-- ═════════════ DEV DASHBOARD · redesigned section starts here ═════════════ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20%C2%B7%20LEARNING%20%C2%B7%20SHIPPING-1B2119?style=flat-square&labelColor=455A35&color=1B2119" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20%C2%B7%20LEARNING%20%C2%B7%20SHIPPING-242C20?style=flat-square&labelColor=455A35" alt="Status" />
 </p>
 
-<!-- 01 · OVERVIEW -->
+<!-- 01 · HERO · STREAK -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-ACTIVITY%20OVERVIEW-1B2119?style=flat-square&labelColor=657C43&color=1B2119" alt="01 Activity Overview" />
+  <img src="https://img.shields.io/badge/01-CONSISTENCY%20STREAK-242C20?style=flat-square&labelColor=657C43" alt="01 Consistency Streak" />
 </p>
 
-<table align="center" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-B7E66A?style=flat-square&labelColor=B7E66A" width="100%" height="3" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&background=111510&border=30392D&stroke=30392D&ring=B7E66A&fire=8BC34A&currStreakNum=F5F7F2&currStreakLabel=B7E66A&sideNums=F5F7F2&sideLabels=A1A79D&dates=A1A79D&card_width=900" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-B7E66A?style=flat-square&labelColor=B7E66A" width="100%" height="3" alt="" />
+</p>
+
+<br>
+
+<!-- 02 · SUPPORTING STATS -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/02-ENGINEERING%20STATS-242C20?style=flat-square&labelColor=657C43" alt="02 Engineering Stats" />
+</p>
+
+<table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img width="100%" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&hide_border=false&border_color=30392D&bg_color=1B2119&title_color=8BC34A&text_color=F3F4F0&icon_color=A3D65C&hide_title=false&card_width=400" />
+    <td align="center">
+      <img width="380" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&bg_color=1B2119&border_color=30392D&title_color=8BC34A&text_color=F5F7F2&icon_color=B7E66A&card_width=380" />
     </td>
-    <td width="50%" align="center">
-      <img width="100%" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&hide_border=false&border_color=30392D&bg_color=1B2119&title_color=8BC34A&text_color=F3F4F0&card_width=400" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&background=1B2119&border=30392D&ring=8BC34A&fire=A3D65C&currStreakNum=F3F4F0&currStreakLabel=A3D65C&sideNums=F3F4F0&sideLabels=A6ADA1&dates=A6ADA1&stroke=30392D" />
+    <td align="center">
+      <img width="380" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&bg_color=1B2119&border_color=30392D&title_color=8BC34A&text_color=F5F7F2&card_width=380" />
     </td>
   </tr>
 </table>
 
-<!-- 02 · ACTIVITY GRAPH -->
+<!-- 03 · ACTIVITY GRAPH -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/02-COMMIT%20ACTIVITY-1B2119?style=flat-square&labelColor=657C43&color=1B2119" alt="02 Commit Activity" />
+  <img src="https://img.shields.io/badge/03-COMMIT%20ACTIVITY-242C20?style=flat-square&labelColor=657C43" alt="03 Commit Activity" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/activity-output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
 </p>
 
-<!-- 03 · CONTRIBUTION SNAKE -->
+<!-- 04 · CONTRIBUTION SNAKE -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/03-CONTRIBUTION%20GRID-1B2119?style=flat-square&labelColor=657C43&color=1B2119" alt="03 Contribution Grid" />
+  <img src="https://img.shields.io/badge/04-CONTRIBUTION%20GRID-242C20?style=flat-square&labelColor=657C43" alt="04 Contribution Grid" />
 </p>
 
 <p align="center">
@@ -151,10 +166,10 @@
   </picture>
 </p>
 
-<!-- 04 · METRICS -->
+<!-- 05 · METRICS -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/04-PROFILE%20METRICS-1B2119?style=flat-square&labelColor=657C43&color=1B2119" alt="04 Profile Metrics" />
+  <img src="https://img.shields.io/badge/05-PROFILE%20METRICS-242C20?style=flat-square&labelColor=657C43" alt="05 Profile Metrics" />
 </p>
 
 <p align="center">
@@ -174,7 +189,7 @@
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%E2%80%94-30392D?style=flat-square&labelColor=30392D" width="100%" height="2" alt="" />
+  <img src="https://img.shields.io/badge/-%20-30392D?style=flat-square&labelColor=30392D" width="100%" height="2" alt="" />
 </p>
 
 <p align="center">
