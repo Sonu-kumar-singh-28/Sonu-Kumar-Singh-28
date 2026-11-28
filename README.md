@@ -156,19 +156,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="./achievements.svg" width="100%" alt="GitHub Achievements" />
-</p>
-
----
-
-
-
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
