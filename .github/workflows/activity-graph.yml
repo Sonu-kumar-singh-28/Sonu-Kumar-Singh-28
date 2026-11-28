@@ -20,14 +20,15 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: sonu-kumar-singh-28
-          options: hide_title=true&hide_border=true&area=true&bg_color=0D0F0C&color=8BC34A&line=A3D65C&point=F3F4F0&area_color=455A35
+          options: hide_title=true&hide_border=true&area=true&bg_color=0D2118&color=E8DCC5&line=A855F7&point=F5EBDD&area_color=214B35
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish Activity Graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: activity-output
+          target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
