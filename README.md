@@ -105,7 +105,25 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20%C2%B7%20LEARNING%20%C2%B7%20SHIPPING-242C20?style=flat-square&labelColor=455A35" alt="Status" />
 </p>
 
-<!-- 01 · HERO · STREAK -->
+
+<!-- 01 · SUPPORTING STATS -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/02-ENGINEERING%20STATS-242C20?style=flat-square&labelColor=657C43" alt="02 Engineering Stats" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="380" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&bg_color=1B2119&border_color=30392D&title_color=8BC34A&text_color=F5F7F2&icon_color=B7E66A&card_width=380" />
+    </td>
+    <td align="center">
+      <img width="380" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&bg_color=1B2119&border_color=30392D&title_color=8BC34A&text_color=F5F7F2&card_width=380" />
+    </td>
+  </tr>
+</table>
+
+<!-- 02 · HERO · STREAK -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-CONSISTENCY%20STREAK-242C20?style=flat-square&labelColor=657C43" alt="01 Consistency Streak" />
@@ -124,23 +142,6 @@
 </p>
 
 <br>
-
-<!-- 02 · SUPPORTING STATS -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/02-ENGINEERING%20STATS-242C20?style=flat-square&labelColor=657C43" alt="02 Engineering Stats" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="380" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&bg_color=1B2119&border_color=30392D&title_color=8BC34A&text_color=F5F7F2&icon_color=B7E66A&card_width=380" />
-    </td>
-    <td align="center">
-      <img width="380" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&bg_color=1B2119&border_color=30392D&title_color=8BC34A&text_color=F5F7F2&card_width=380" />
-    </td>
-  </tr>
-</table>
 
 <!-- 03 · ACTIVITY GRAPH -->
 
