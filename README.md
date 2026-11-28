@@ -97,83 +97,88 @@
   />
 </p>
 
----
+<br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<a href="https://github.com/sonu-kumar-singh-28">
-  <img
-    height="180"
-    width="400"
-    src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&theme=tokyonight&hide_border=true&card_width=400"
-    alt="GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/sonu-kumar-singh-28">
-  <img
-    height="180"
-    width="400"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400"
-    alt="Top Languages"
-  />
-</a>
-
-</p>
-
-
----
-
-## 🔥 GitHub Streak
+<!-- ═════════════ DEV DASHBOARD · redesigned section starts here ═════════════ -->
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20%C2%B7%20LEARNING%20%C2%B7%20SHIPPING-1B2119?style=flat-square&labelColor=455A35&color=1B2119" alt="Status" />
 </p>
 
----
-
-
-## 📊 GitHub Activity Graph
+<!-- 01 · OVERVIEW -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://img.shields.io/badge/01-ACTIVITY%20OVERVIEW-1B2119?style=flat-square&labelColor=657C43&color=1B2119" alt="01 Activity Overview" />
 </p>
 
----
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&hide_border=false&border_color=30392D&bg_color=1B2119&title_color=8BC34A&text_color=F3F4F0&icon_color=A3D65C&hide_title=false&card_width=400" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&hide_border=false&border_color=30392D&bg_color=1B2119&title_color=8BC34A&text_color=F3F4F0&card_width=400" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&background=1B2119&border=30392D&ring=8BC34A&fire=A3D65C&currStreakNum=F3F4F0&currStreakLabel=A3D65C&sideNums=F3F4F0&sideLabels=A6ADA1&dates=A6ADA1&stroke=30392D" />
+    </td>
+  </tr>
+</table>
 
+<!-- 02 · ACTIVITY GRAPH -->
 
-## 📈 GitHub Metrics
+<p align="center">
+  <img src="https://img.shields.io/badge/02-COMMIT%20ACTIVITY-1B2119?style=flat-square&labelColor=657C43&color=1B2119" alt="02 Commit Activity" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/activity-output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+<!-- 03 · CONTRIBUTION SNAKE -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/03-CONTRIBUTION%20GRID-1B2119?style=flat-square&labelColor=657C43&color=1B2119" alt="03 Contribution Grid" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
+  </picture>
+</p>
+
+<!-- 04 · METRICS -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/04-PROFILE%20METRICS-1B2119?style=flat-square&labelColor=657C43&color=1B2119" alt="04 Profile Metrics" />
+</p>
 
 <p align="center">
   <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </p>
----
 
----
+<br>
 
-## 🐍 Contribution Graph
+<!-- SIGNATURE -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
-## 💡 Quote
-
-<h3 align="center"><i>"Consistency is what transforms average into excellence."</i> 🚀</h3>
+<h2 align="center">Build quietly. Refine daily. Ship consistently.</h2>
 
 <p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
+  <sub>Real apps &middot; clean architecture &middot; steady progress</sub>
 </p>
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<!-- FOOTER -->
 
-<div align="center">
-  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%80%94-30392D?style=flat-square&labelColor=30392D" width="100%" height="2" alt="" />
+</p>
+
+<p align="center">
+  <sub>Open to collaborating on Android &amp; Flutter projects &mdash; <a href="mailto:sonusinghsengar28@gmail.com">say hello</a></sub>
+  <br>
+  <sub><code>sonu-kumar-singh-28</code> &middot; Mobile Platform Engineer</sub>
+</p>
