@@ -1,33 +1,34 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D2118&height=200&text=Sonu%20Kumar%20Singh&fontColor=E8DCC5&fontSize=46&fontAlignY=40&desc=Native%20Android%20%C2%B7%20Flutter%20%C2%B7%20Kotlin%20%C2%B7%20Dart&descAlignY=62&descSize=18" alt="Sonu Kumar Singh" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Sonu Kumar Singh</h1>
-
-<h3 align="center">Mobile Platform Engineer | Native Android Developer | Flutter Developer | Kotlin | Dart 🚀</h3>
-
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<h3 align="center">Mobile Platform Engineer | Native Android Developer | Flutter Developer | Kotlin | Dart</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <sub>Building real mobile apps with clean architecture, careful design, and steady daily progress.</sub>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonu-kumar-singh-28&label=Profile%20Views&color=7E22CE&style=for-the-badge" />
   <a href="https://x.com/sonu_singh_0328" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sonu_singh_0328?logo=twitter&style=for-the-badge&color=1DA1F2"/>
+    <img src="https://img.shields.io/twitter/follow/sonu_singh_0328?logo=twitter&style=for-the-badge&color=183D2B"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-214B35?style=flat-square&labelColor=214B35" width="100%" height="2" alt="" />
+</p>
 
-### 🚀 About Me
+### About Me
 
-* 👨‍💻 Native **Android Developer** focused on **Kotlin**
-* 📱 Building modern Android applications with **Jetpack Compose**
-* 🦋 Exploring **Flutter & Dart** for cross-platform development
-* 🏗️ Experienced with **MVVM, Clean Architecture & Dependency Injection**
-* 🔥 Working with **Firebase, REST APIs & Room Database**
-* 💬 Ask me about **Android, Kotlin, Flutter & Frontend**
-* 📫 Reach me at **[sonusinghsengar28@gmail.com](mailto:sonusinghsengar28@gmail.com)**
-* ⚡ Fun fact: *I think I am funny 😄*
+* Native **Android Developer** focused on **Kotlin**
+* Building modern Android applications with **Jetpack Compose**
+* Exploring **Flutter & Dart** for cross-platform development
+* Experienced with **MVVM, Clean Architecture & Dependency Injection**
+* Working with **Firebase, REST APIs & Room Database**
+* Ask me about **Android, Kotlin, Flutter & Frontend**
+* Reach me at **[sonusinghsengar28@gmail.com](mailto:sonusinghsengar28@gmail.com)**
+* Fun fact: *I think I am funny*
 
 ---
 
@@ -99,64 +100,51 @@
 
 <br>
 
-<!-- ═════════════ DEV DASHBOARD · redesigned section starts here ═════════════ -->
+<!-- 01 · ENGINEERING STATS -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20%C2%B7%20LEARNING%20%C2%B7%20SHIPPING-242C20?style=flat-square&labelColor=455A35" alt="Status" />
+  <img src="https://img.shields.io/badge/01-ENGINEERING%20STATS-183D2B?style=flat-square&labelColor=7E22CE" alt="01 Engineering Stats" />
 </p>
 
-
-<!-- 01 · SUPPORTING STATS -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01-ENGINEERING%20STATS-242C20?style=flat-square&labelColor=657C43" alt="01 Engineering Stats" />
-</p>
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
-      <img width="380" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&bg_color=1B2119&border_color=30392D&title_color=8BC34A&text_color=F5F7F2&icon_color=B7E66A&card_width=380" />
+    <td width="50%" align="center">
+      <a href="https://github.com/sonu-kumar-singh-28">
+        <img width="100%" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=sonu-kumar-singh-28&show_icons=true&bg_color=0D2118&border_color=CBB998&border_radius=10&title_color=C084FC&text_color=E8DCC5&icon_color=A855F7&card_width=400" />
+      </a>
     </td>
-    <td align="center">
-      <img width="380" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&bg_color=1B2119&border_color=30392D&title_color=8BC34A&text_color=F5F7F2&card_width=380" />
+    <td width="50%" align="center">
+      <a href="https://github.com/sonu-kumar-singh-28">
+        <img width="100%" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonu-kumar-singh-28&layout=compact&langs_count=8&bg_color=0D2118&border_color=CBB998&border_radius=10&title_color=C084FC&text_color=E8DCC5&card_width=400" />
+      </a>
     </td>
   </tr>
 </table>
 
-<!-- 02 · HERO · STREAK -->
+<!-- 02 · CONSISTENCY STREAK -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/02-CONSISTENCY%20STREAK-242C20?style=flat-square&labelColor=657C43" alt="02 Consistency Streak" />
+  <img src="https://img.shields.io/badge/02-CONSISTENCY%20STREAK-183D2B?style=flat-square&labelColor=7E22CE" alt="02 Consistency Streak" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%20-B7E66A?style=flat-square&labelColor=B7E66A" width="100%" height="3" alt="" />
+  <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&background=0D2118&border=CBB998&stroke=CBB998&ring=A855F7&fire=C084FC&currStreakNum=F5EBDD&currStreakLabel=C084FC&sideNums=E8DCC5&sideLabels=B8AD98&dates=B8AD98&border_radius=10" />
+</p>
+
+<!-- 03 · COMMIT ACTIVITY -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/03-COMMIT%20ACTIVITY-183D2B?style=flat-square&labelColor=7E22CE" alt="03 Commit Activity" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonu-kumar-singh-28&background=111510&border=30392D&stroke=30392D&ring=B7E66A&fire=8BC34A&currStreakNum=F5F7F2&currStreakLabel=B7E66A&sideNums=F5F7F2&sideLabels=A1A79D&dates=A1A79D&card_width=900" alt="GitHub Streak" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20-B7E66A?style=flat-square&labelColor=B7E66A" width="100%" height="3" alt="" />
-</p>
-
-<br>
-
-<!-- 03 · ACTIVITY GRAPH -->
+<!-- 04 · CONTRIBUTION GRID -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/03-COMMIT%20ACTIVITY-242C20?style=flat-square&labelColor=657C43" alt="03 Commit Activity" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu-kumar-singh-28/Sonu-kumar-singh-28/activity-output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
-</p>
-
-<!-- 04 · CONTRIBUTION SNAKE -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/04-CONTRIBUTION%20GRID-242C20?style=flat-square&labelColor=657C43" alt="04 Contribution Grid" />
+  <img src="https://img.shields.io/badge/04-CONTRIBUTION%20GRID-183D2B?style=flat-square&labelColor=7E22CE" alt="04 Contribution Grid" />
 </p>
 
 <p align="center">
@@ -167,10 +155,10 @@
   </picture>
 </p>
 
-<!-- 05 · METRICS -->
+<!-- 05 · PROFILE METRICS -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/05-PROFILE%20METRICS-242C20?style=flat-square&labelColor=657C43" alt="05 Profile Metrics" />
+  <img src="https://img.shields.io/badge/05-PROFILE%20METRICS-183D2B?style=flat-square&labelColor=7E22CE" alt="05 Profile Metrics" />
 </p>
 
 <p align="center">
@@ -179,22 +167,20 @@
 
 <br>
 
-<!-- SIGNATURE -->
-
-<h2 align="center">Build quietly. Refine daily. Ship consistently.</h2>
-
-<p align="center">
-  <sub>Real apps &middot; clean architecture &middot; steady progress</sub>
-</p>
-
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-%20-30392D?style=flat-square&labelColor=30392D" width="100%" height="2" alt="" />
+  <img src="https://img.shields.io/badge/-%20-214B35?style=flat-square&labelColor=214B35" width="100%" height="2" alt="" />
 </p>
 
 <p align="center">
+  <b>Build quietly. Refine daily. Ship consistently.</b>
+  <br>
   <sub>Open to collaborating on Android &amp; Flutter projects &mdash; <a href="mailto:sonusinghsengar28@gmail.com">say hello</a></sub>
   <br>
   <sub><code>sonu-kumar-singh-28</code> &middot; Mobile Platform Engineer</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-A855F7?style=flat-square&labelColor=A855F7" width="48" height="3" alt="" />
 </p>
